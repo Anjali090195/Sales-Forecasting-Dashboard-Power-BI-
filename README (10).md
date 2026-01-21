@@ -55,7 +55,3 @@ Trend Analysis
 Data Visualization
 
 
-**🚀 Conclusion**
-
-This mini project highlights the use of Power BI forecasting analytics to predict future trends using historical data. It is suitable for entry-level and aspiring data analyst portfolios to demonstrate understanding of time-series concepts and business insights.
-
